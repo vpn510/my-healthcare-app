@@ -1,0 +1,223 @@
+[
+   {
+      "id": 1,
+      "name": "Dr. Olivia Harris",
+      "specialty": "Cardiologist",
+      "image": "https://wallpapers.com/images/hd/doctor-pictures-l5y1qs2998u7rf0x.jpg",
+      "slots": [
+         "9:00 AM (60 min)",
+         "12:00 PM (60 min)",
+         "3:00 PM (60 min)"
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Dr. Ethan Thompson",
+      "specialty": "Dermatologist",
+      "image": "https://wallpapercave.com/wp/wp2789215.jpg",
+      "slots": [
+         "10:00 AM (20 min)",
+         "1:00 PM (20 min)",
+         "3:30 PM (20 min)"
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Dr. Sophia Patel",
+      "specialty": "Pediatrician",
+      "image": "https://static.vecteezy.com/system/resources/previews/026/375/249/non_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "slots": [
+         "9:30 AM (45 min)",
+         "12:15 PM (45 min)",
+         "2:30 PM (45 min)"
+      ]
+   },
+   {
+      "id": 4,
+      "name": "Dr. Liam Smith",
+      "specialty": "Orthopedic Surgeon",
+      "image": "https://www.sonicseo.com/wp-content/uploads/2020/07/surgeon.jpg",
+      "slots": [
+         "8:30 AM (20 min)",
+         "11:00 AM (20 min)",
+         "2:00 PM (20 min)"
+      ]
+   },
+   {
+      "id": 5,
+      "name": "Dr. Emma Johnson",
+      "specialty": "Neurologist",
+      "image": "https://static.vecteezy.com/system/resources/previews/028/287/555/non_2x/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg",
+      "slots": [
+         "10:00 AM (45 min)",
+         "1:00 PM (45 min)",
+         "3:30 PM (45 min)"
+      ]
+   },
+   {
+      "id": 6,
+      "name": "Dr. Noah Wilson",
+      "specialty": "General Practitioner",
+      "image": "https://thumbs.dreamstime.com/b/doctor-portrait-21332357.jpg",
+      "slots": [
+         "9:00 AM (15 min)",
+         "11:00 AM (15 min)",
+         "2:00 PM (15 min)"
+      ]
+   },
+   {
+      "id": 7,
+      "name": "Dr. Ava Martinez",
+      "specialty": "Gynecologist",
+      "image": "https://copec.org/wp-content/uploads/2019/01/doctor-health.jpg",
+      "slots": [
+         "10:00 AM (30 min)",
+         "12:30 PM (30 min)",
+         "3:00 PM (30 min)"
+      ]
+   },
+   {
+      "id": 8,
+      "name": "Dr. William Garcia",
+      "specialty": "Ophthalmologist",
+      "image": "https://st.depositphotos.com/2234518/3930/i/950/depositphotos_39307949-stock-photo-doctor.jpg",
+      "slots": [
+         "9:30 AM (15 min)",
+         "11:15 AM (15 min)",
+         "2:45 PM (15 min)"
+      ]
+   },
+   {
+      "id": 9,
+      "name": "Dr. Mia Lee",
+      "specialty": "Endocrinologist",
+      "image": "https://thumbnails.yayimages.com/1600/1/7f7/17f724e.jpg",
+      "slots": [
+         "8:45 AM (30 min)",
+         "12:00 PM (30 min)",
+         "4:00 PM (30 min)"
+      ]
+   },
+   {
+      "id": 10,
+      "name": "Dr. James Brown",
+      "specialty": "Psychiatrist",
+      "image": "https://pngimg.com/uploads/doctor/doctor_PNG16041.png",
+      "slots": [
+         "10:00 AM (60 min)",
+         "1:15 PM (60 min)",
+         "3:45 PM (60 min)"
+      ]
+   },
+   {
+      "id": 11,
+      "name": "Dr. Isabella Davis",
+      "specialty": "Pulmonologist",
+      "image": "https://static.vecteezy.com/system/resources/previews/041/408/858/non_2x/ai-generated-a-smiling-doctor-with-glasses-and-a-white-lab-coat-isolated-on-transparent-background-free-png.png",
+      "slots": [
+         "9:15 AM (30 min)",
+         "11:30 AM (30 min)",
+         "2:30 PM (30 min)"
+      ]
+   },
+   {
+      "id": 12,
+      "name": "Dr. Benjamin Miller",
+      "specialty": "Gastroenterologist",
+      "image": "https://st.depositphotos.com/1771835/1477/i/950/depositphotos_14779771-stock-photo-portrait-of-confident-young-doctor.jpg",
+      "slots": [
+         "8:30 AM (30 min)",
+         "12:00 PM (30 min)",
+         "3:00 PM (30 min)"
+      ]
+   },
+   {
+      "id": 13,
+      "name": "Dr. Charlotte Wilson",
+      "specialty": "Rheumatologist",
+      "image": "https://painlesshire.com/wp-content/uploads/2017/07/doctor.jpg",
+      "slots": [
+         "9:00 AM (30 min)",
+         "11:00 AM (30 min)",
+         "2:00 PM (30 min)"
+      ]
+   },
+   {
+      "id": 14,
+      "name": "Dr. Lucas Anderson",
+      "specialty": "Urologist",
+      "image": "https://thumbs.dreamstime.com/b/doctor-indian-38175884.jpg",
+      "slots": [
+         "10:00 AM (30 min)",
+         "1:00 PM (30 min)",
+         "3:00 PM (30 min)"
+      ]
+   },
+   {
+      "id": 15,
+      "name": "Dr. Harper Thomas",
+      "specialty": "Oncologist",
+      "image": "https://cdn.pixabay.com/photo/2023/12/21/06/23/doctor-8461303_1280.jpg",
+      "slots": [
+         "9:30 AM (40 min)",
+         "11:45 AM (40 min)",
+         "2:15 PM (40 min)"
+      ]
+   },
+   {
+      "id": 16,
+      "name": "Dr. Alexander Moore",
+      "specialty": "Nephrologist",
+      "image": "http://www.pngall.com/wp-content/uploads/2018/05/Doctor-PNG-Images.png",
+      "slots": [
+         "8:30 AM (30 min)",
+         "11:00 AM (30 min)",
+         "3:30 PM (30 min)"
+      ]
+   },
+   {
+      "id": 17,
+      "name": "Dr. Evelyn Taylor",
+      "specialty": "Allergist",
+      "image": "https://media.istockphoto.com/photos/portrait-of-a-doctor-smiling-picture-id488117766?k=6&m=488117766&s=612x612&w=0&h=VPPSKNtLjX5_0Okl2hbW7T0ZJwfkaE4GBP5-gXRG4Tw=",
+      "slots": [
+         "9:00 AM (20 min)",
+         "12:15 PM (20 min)",
+         "2:45 PM (20 min)"
+      ]
+   },
+   {
+      "id": 18,
+      "name": "Dr. Samuel Jackson",
+      "specialty": "ENT Specialist",
+      "image": "http://www.pngall.com/wp-content/uploads/2018/05/Doctor-PNG-File-Download-Free.png",
+      "slots": [
+         "10:00 AM (15 min)",
+         "1:30 PM (15 min)",
+         "3:30 PM (15 min)"
+      ]
+   },
+   {
+      "id": 19,
+      "name": "Dr. Grace Martinez",
+      "specialty": "Podiatrist",
+      "image": "https://img.freepik.com/premium-photo/medical-concept-indian-beautiful-female-doctor-white-coat-with-stethoscope-waist-up-medical-student-woman-hospital-worker-looking-camera-smiling-studio-blue-background_185696-621.jpg?w=1060",
+      "slots": [
+         "9:15 AM (20 min)",
+         "11:45 AM (20 min)",
+         "2:00 PM (20 min)"
+      ]
+   },
+   {
+      "id": 20,
+      "name": "Dr. Jack Robinson",
+      "specialty": "Otolaryngologist",
+      "image": "https://thumbs.dreamstime.com/b/medical-doctor-office-portrait-cheerful-56746093.jpg",
+      "slots": [
+         "8:45 AM (15 min)",
+         "12:00 PM (15 min)",
+         "3:15 PM (15 min)"
+      ]
+   }
+]
+
